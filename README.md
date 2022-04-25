@@ -1,0 +1,2 @@
+# 18090MaxUnityProject
+For the final project, I connected Max with Unity Game Engine and created a mini interaction game. Communication between Max and Unity is established using extOSC(Open Sound Control Protocol: https://github.com/Iam1337/extOSC). Max is the sender and Unity is the receiver in this project. I created a maxpatch that is used as the controller to control a ball rolling and jumping in unity. 
